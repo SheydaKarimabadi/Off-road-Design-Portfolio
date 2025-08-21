@@ -1,6 +1,7 @@
 🚙 Canopy Design for Multiple Off-road Vehicles
 
 This project involved designing custom canopies for multiple pickup models. I solved the challenge of sealing issues on the doors and created a production-ready design that became a repeatable product.
+
 📌 Overview
 
 Type: Real-world Product Design
