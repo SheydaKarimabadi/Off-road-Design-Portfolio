@@ -1,6 +1,6 @@
 🚙 Canopy Design for Multiple Off-road Vehicles
 
-This project involved designing custom canopies for multiple pickup models. Before I joined the company, they didn’t produce canopies due to sealing issues on the doors—but I solved that challenge and created a production-ready design that became a repeatable product.
+This project involved designing custom canopies for multiple pickup models. I solved the challenge of sealing issues on the doors and created a production-ready design that became a repeatable product.
 
 📌 Overview
 
@@ -21,7 +21,7 @@ Designed canopies for several models (Toyota, G9, KMC 8, KMC 9, Kalut, Foton old
 
 Offered versions aligned with the vehicle roof and roof rack per customer request
 
-Solved major water sealing issue for canopy doors (company couldn’t produce before this)
+Solved major water sealing issue for canopy doors
 
 Optimized hinge, latch, and door-to-body gaps for perfect fit and easy assembly
 
